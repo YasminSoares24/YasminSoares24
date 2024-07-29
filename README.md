@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Yasmin and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Yasmin 
+  Estudante de Análise e Desenvolvimento de Sistemas na Faculdade de Engenharia de Sorocaba. Atualmente trabalho com Go e estudo Java paralelamente. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.</h2>
 
 ###
 
